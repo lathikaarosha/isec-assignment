@@ -1,0 +1,25 @@
+body {
+    			background-color: wite
+			}
+
+			.userProfile
+			{
+    			text-align: center;
+    			font-size: 30px;
+    			align-items: center;
+    			justify-content: center;
+			}
+			.userProfile h2
+			{
+    			justify-content: left;
+			}
+			
+			.user-profile
+			{ 
+    			float: left;  
+			}
+			.details
+			{
+    			float: left;
+			}
+
